@@ -23,4 +23,4 @@
 - [ ] Criar responsividade
 - [ ] Adicionar efeito de hover nos botões
 
-      ### Resultado Final 👁️:  [Página Web](https://striderry.github.io/Projeto-Alita/)
+### Resultado Final 👁️:  [Página Web](https://striderry.github.io/Projeto-Alita/)
